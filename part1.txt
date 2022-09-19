@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<html>
+
+<head>
+  <title>Funky HTML Page About Art!</title>
+</head>
+
+<body>
+  <h1> What is art? </h1>
+
+  <h2> Do you feel uninspired? Bored? <br> Maybe even a little depressed?</h2>
+
+  <div class="art">
+    <p> Boy do I have the solution for you! Bathe in the beauty that is art!</p>
+    <img src="monalisa.jpg"></img>
+  </div>
+
+  <input type="text" id="name" name="name" required minlength="4" maxlength="8" size="10"> </input>
+  <button type="button">
+    Enter to pay respects
+  </button>
+
+  <p><br>Find out more at: </p>
+  <ul>
+    <li><a href="https://www.louvre.fr/en">The Louvre Museum Website</a></li>
+    <li><a href="https://jspaint.app">MS Paint Online</a></li>
+    <li><a href="https://catalog.sjsu.edu/preview_entity.php?catoid=12&ent_oid=933">Art Program at SJSU</a></li>
+  </ul>
+
+</body>
+
+</html>
